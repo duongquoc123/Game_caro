@@ -1,0 +1,12 @@
+E:\Caro_quoc\Caro\bin\Debug\Caro.exe.config
+E:\Caro_quoc\Caro\bin\Debug\Caro.exe
+E:\Caro_quoc\Caro\bin\Debug\Caro.pdb
+E:\Caro_quoc\Caro\obj\Debug\Caro_quoc.csproj.AssemblyReference.cache
+E:\Caro_quoc\Caro\obj\Debug\Caro.frmPlayGame.resources
+E:\Caro_quoc\Caro\obj\Debug\Caro.Properties.Resources.resources
+E:\Caro_quoc\Caro\obj\Debug\Caro.frmPvsC.resources
+E:\Caro_quoc\Caro\obj\Debug\Caro.frmPvsP.resources
+E:\Caro_quoc\Caro\obj\Debug\Caro_quoc.csproj.GenerateResource.cache
+E:\Caro_quoc\Caro\obj\Debug\Caro_quoc.csproj.CoreCompileInputs.cache
+E:\Caro_quoc\Caro\obj\Debug\Caro.exe
+E:\Caro_quoc\Caro\obj\Debug\Caro.pdb
